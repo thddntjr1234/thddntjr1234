@@ -1,7 +1,3 @@
-
-## 👨🏻‍💻 About me
-백엔드 개발에 흥미를 가지고 있는 송우석입니다.
-
 ## 🖥️ SKILLS
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
